@@ -18,33 +18,6 @@ Write a short reflection.
 - Understood the repository harness structure and its components
 - Understanding the repository harness structure means recognizing how these components fit together to form a known-good, reproducible baseline. Instead of starting with unstructured prose or unverified scripts, the harness allows you 
 to validate code deterministically at every step of development.
-
-
-
-
-
-
-
-
-
-
-
-
-
-- Learnt how to set up the environment and run the basic checks
-   Used  https://test-agent-eng.vercel.app/
-## Challenges
-Describe what you fixed or learned.
-# Initially i was not sure about setting up the .venv and pip install -e .[dev]
-# But after reading the BUILD.md and following the steps carefully i was able to set up the environment and run the basic checks
-
-Viewed README.md
-Viewed README.md:1-56
-Viewed 0003-repository-harness.md:1-30
-Listed directory golden-solution
-Listed directory scripts
-Listed directory .agents
-
 In Agent Engineering, a **Repository Harness** refers to the foundational infrastructure, environment setup, and quality control systems created around a project *before* implementing core agent logic.
 
 Just as a physical harness provides safety and stability, a repository harness establishes the boundary conditions, automated verification tools, and governance rules required for AI agents and human developers to build, test, and run code safely and reproducibly.
@@ -74,3 +47,12 @@ Just as a physical harness provides safety and stability, a repository harness e
 ### Why this is important in Class 01
 
 Understanding the repository harness structure means recognizing how these components fit together to form a **known-good, reproducible baseline**. Instead of starting with unstructured prose or unverified scripts, the harness allows you to validate code deterministically at every step of development.
+
+- Learnt how to set up the environment and run the basic checks
+   Used  https://test-agent-eng.vercel.app/
+## Challenges
+# Describe what you fixed or learned.
+-I learnt how to maximize my antigravity IDE app without covering my desktop
+- I learnt Git commands of forking, cloning, creating file in local repository and pushing it
+
+
