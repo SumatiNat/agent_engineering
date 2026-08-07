@@ -1,0 +1,15 @@
+company_name: Corner Market
+industry: consumer_retail
+employee_count: 350
+region: united_states
+buying_signals: []
+account_notes: >
+  Corner Market operates local retail grocery stores.
+evidence:
+  - claim: Corner Market has 350 employees across 12 local retail locations.
+    classification: verified_fact
+    source:
+      name: Retail Directory
+      url: https://example.com/fixtures/corner-market-profile
+      retrieved_at: 2026-08-07
+    excerpt: Corner Market operates regional retail stores with 350 total staff.

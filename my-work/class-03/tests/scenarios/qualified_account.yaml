@@ -1,0 +1,18 @@
+company_name: Apex Industrial Systems
+industry: industrial_automation
+employee_count: 12000
+region: united_states
+buying_signals:
+  - plant_modernization
+  - new_ai_leadership
+account_notes: >
+  Apex Industrial Systems recently announced a multi-plant operational
+  modernization initiative and appointed a new Chief Digital Officer.
+evidence:
+  - claim: Apex Industrial Systems announced a multiyear plant-modernization initiative.
+    classification: verified_fact
+    source:
+      name: Press Release
+      url: https://example.com/fixtures/apex-press-release
+      retrieved_at: 2026-08-07
+    excerpt: Apex Industrial Systems announces $50M plant modernization investment.
